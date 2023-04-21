@@ -15,6 +15,7 @@ Hi There,I'm
 
 [![](https://raw.githubusercontent.com/thops1925/thopz/master/profile-summary-card-output/algolia/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/thops1925/thopz/master/profile-summary-card-output/algolia/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=thops1925)
 
 ![Profile views](https://gpvc.arturio.dev/thops1925)
 
