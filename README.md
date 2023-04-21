@@ -3,7 +3,8 @@
 I am a web developer with a passion for creating intuitive, user-friendly web experiences.
 
 ## ⚡ Stats:
-
+<div text-align='justify'>
+  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thops1925&theme=default)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thops1925&theme=default)
@@ -11,3 +12,4 @@ I am a web developer with a passion for creating intuitive, user-friendly web ex
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thops1925&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thops1925&theme=default&utcOffset=8)
+  </div>
