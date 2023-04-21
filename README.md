@@ -1,10 +1,4 @@
- <div 
-   font-family: arial;
-  font-size: 24px;
-  margin: 25px;
-  width: 350px;
-  height: 200px;
-  outline: dashed 1px black;
+shed 1px black;
    >
  
 Hi There,I'm 
@@ -27,4 +21,3 @@ Hi There,I'm
 
 ![Profile views](https://gpvc.arturio.dev/thops1925)
 
-</div>
