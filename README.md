@@ -1,6 +1,4 @@
-shed 1px black;
-   >
- 
+
 Hi There,I'm 
 # Christopher Lumen
 
