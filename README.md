@@ -1,4 +1,8 @@
-  
+ <div 
+      text-align: center;
+      border: 3px solid green;
+   >
+ 
 Hi There,I'm 
 # Christopher Lumen
 
@@ -19,3 +23,4 @@ Hi There,I'm
 
 ![Profile views](https://gpvc.arturio.dev/thops1925)
 
+</div>
