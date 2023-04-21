@@ -1,6 +1,10 @@
  <div 
-      text-align: center;
-      border: 3px solid green;
+   font-family: arial;
+  font-size: 24px;
+  margin: 25px;
+  width: 350px;
+  height: 200px;
+  outline: dashed 1px black;
    >
  
 Hi There,I'm 
