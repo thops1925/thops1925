@@ -2,7 +2,7 @@
 
 Hi There,I'm 
 # Christopher Lumen
-I Take Photo Make's Video And Drink Coffee. Contact ME clumen600@gmail.com
+I Take Photo Make's Video And Drink Coffee. Contact ME thopz.dev@gmail.com
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='auto'>](https://www.linkedin.com/in/christopher-lumen-a06ba820a/)
 [<img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook' height='auto'>](https://web.facebook.com/thops.lumen/)
