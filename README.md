@@ -1,5 +1,4 @@
-Hi There,I'm 
-## Christopher Lumen
+
 I Take Photo Make's Video And Drink Coffee. Contact ME clumen600@gmail.com
 
 [<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='auto'>](https://github.com/thops1925)
