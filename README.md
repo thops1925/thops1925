@@ -21,4 +21,4 @@ I Take Photo Make's Video And Drink Coffee. Contact ME thopz.dev@gmail.com
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=thops1925)
 
 
-
+![Profile views](https://gpvc.arturio.dev/thops1925)
