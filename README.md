@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hey 👋, I'm thops1925</h1>
+<h1 align="center">Hey 👋, I'm thopz</h1>
 <h3 align="center" style="color:#F81C18;">Crafting Modern Web Experiences with React & Next.js</h3>
 
 <!-- Profile Badges -->
