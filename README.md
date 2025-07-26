@@ -44,7 +44,7 @@ My playground is the intersection of design and performance, where I use **React
 <p align="center">
   <a href="https://linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter" /></a>
-  <a href="https://your-website.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web" alt="Portfolio" /></a>
+  <a href="https://christopherlumenportfolio.vercel.app/#work/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web" alt="Portfolio" /></a>
 </p>
 
 ---
