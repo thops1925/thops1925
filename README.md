@@ -33,7 +33,7 @@ My playground is the intersection of design and performance, where I use **React
 ## 🔥 Featured Work
 
 <!-- Replace with your actual projects -->
-- [Portfolio Website](#) <a href="https://christopherlumenportfolio.vercel.app/#work/" target="_blank"> – My personal playground for UI/UX and performance.
+-  <a href="https://christopherlumenportfolio.vercel.app/#work/" target="_blank"> [Portfolio Website](#) </a> – My personal playground for UI/UX and performance.
 - [Open Source Starter](#) – Kickstart your React & Next.js projects with best practices baked in.
 - [UI Components Library](#) – Reusable, beautiful, and accessible components for modern apps.
 
