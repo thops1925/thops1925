@@ -1,6 +1,6 @@
 <!-- Profile Header -->
-<h1 align="center">Hey 👋, I'm thopz</h1>
-<h3 align="center" style="color:#F81C18;">Crafting Modern Web Experiences with React & Next.js</h3>
+<h1 align="center">Hey 👋, I'm thops1925</h1>
+<h3 align="center" style="color:#F81C18;">Learning to Build Modern Web Experiences with React, Next.js & Tailwind CSS</h3>
 
 <!-- Profile Badges -->
 <p align="center">
@@ -12,38 +12,36 @@
 
 ## 🚀 About Me
 
-Hi, I'm thops1925—a creator, builder, and passionate web developer.  
-My playground is the intersection of design and performance, where I use **React** and **Next.js** to craft digital experiences that feel just right.
+Hi, I'm thops1925—a curious learner and aspiring web developer!  
+I'm exploring **React**, **Next.js**, **Tailwind CSS**, and **TypeScript** as I start my journey in building beautiful, responsive websites and apps.
 
-- 👨‍💻 Currently designing with React and Next.js
-- 🎨 Obsessed with clean code and pixel-perfect UIs
-- 🧠 Lifelong learner, always exploring new tech and best practices
-- 🤝 Love collaborating and sharing knowledge
+- 🌱 Currently learning React, Next.js, Tailwind CSS & TypeScript  
+- 💡 Always eager to try new things and improve my skills  
+- 🤝 Looking to connect with other learners, developers & creators  
+- ✨ Open to feedback and collaboration on fun projects  
 
 ---
 
 ## 🛠️ My Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,git,github,figma,vscode&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,html,css,git,github,vscode&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
 
-## 🔥 Featured Work
+## 🔥 Learning Projects
 
-<!-- Replace with your actual projects -->
--  <a href="https://christopherlumenportfolio.vercel.app/#work/" target="_blank"> [Portfolio Website](#) </a> – My personal playground for UI/UX and performance.
-- [Open Source Starter](#) – Kickstart your React & Next.js projects with best practices baked in.
-- [UI Components Library](#) – Reusable, beautiful, and accessible components for modern apps.
+- [Portfolio Website](https://christopherlumenportfolio.vercel.app/#work/) – My personal playground for practicing UI/UX and web development.
+- [Mini Challenges](#) – Small projects to test what I learn.
+- [UI Components Library](#) – Trying out reusable, beautiful, and accessible components.
 
 ---
 
 ## 🌐 Find Me Online
 
 <p align="center">
-  <a href="https://linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter" /></a>
+  <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://christopherlumenportfolio.vercel.app/#work/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web" alt="Portfolio" /></a>
 </p>
 
@@ -51,8 +49,8 @@ My playground is the intersection of design and performance, where I use **React
 
 ## ✨ Fun Fact
 
-When I'm not coding, you’ll catch me sketching, exploring new coffee shops, or chasing the perfect sunset for my next photo.
+If coding was an Olympic sport, I'd win gold in "googling error messages" and "accidentally breaking my own code." 🏆
 
 ---
 
-<p align="center"><b>Thanks for stopping by! 🚀</b></p>
+<p align="center"><b>Thanks for visiting! 🚀</b></p>
